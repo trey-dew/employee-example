@@ -1,0 +1,20 @@
+E:\213 CSCI\Chapter12\HighestLowest\bin\Debug\HighestLowest.exe.config
+E:\213 CSCI\Chapter12\HighestLowest\bin\Debug\HighestLowest.exe
+E:\213 CSCI\Chapter12\HighestLowest\bin\Debug\HighestLowest.pdb
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.Form1.resources
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.Properties.Resources.resources
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.csproj.GenerateResource.cache
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.csproj.CoreCompileInputs.cache
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.exe
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.pdb
+E:\213 CSCI\Chapter12\HighestLowest\obj\Debug\HighestLowest.csprojAssemblyReference.cache
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\bin\Debug\HighestLowest.exe.config
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\bin\Debug\HighestLowest.exe
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\bin\Debug\HighestLowest.pdb
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.csprojAssemblyReference.cache
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.Form1.resources
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.Properties.Resources.resources
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.csproj.GenerateResource.cache
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.csproj.CoreCompileInputs.cache
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.exe
+C:\Users\treyd\OneDrive\Desktop\Chapter12\HighestLowest\obj\Debug\HighestLowest.pdb
